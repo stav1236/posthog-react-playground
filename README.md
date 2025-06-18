@@ -71,3 +71,8 @@ src/
 - **This repo is not production-ready.**
 - Designed strictly for research, demo, and experimentation.
 - Please validate tracking consent and privacy compliance before use.
+
+## 📊 Dashboard Preview
+
+![image](https://github.com/user-attachments/assets/3015986b-a0b8-4493-a76d-a620b4d733b8)
+
