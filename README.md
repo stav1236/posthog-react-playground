@@ -36,8 +36,8 @@ npm install
 Create a `.env` file based on `.env.example` and add your PostHog project key:
 
 ```env
-VITE_POSTHOG_KEY=your_project_api_key
-VITE_POSTHOG_HOST=https://app.posthog.com
+VITE_PUBLIC_POSTHOG_KEY=your_project_api_key
+VITE_PUBLIC_POSTHOG_HOST=https://app.posthog.com
 ```
 
 ### 4. Start Development Server
@@ -48,11 +48,11 @@ npm run dev
 
 ## 🧪 Features Under Evaluation
 
-* `posthog.capture()`: Event tracking
-* Feature flags & experimentation
-* Heatmaps and session recordings
-* React hooks and custom event tracking
-* Page view analytics
+- `posthog.capture()`: Event tracking
+- Feature flags & experimentation
+- Heatmaps and session recordings
+- React hooks and custom event tracking
+- Page view analytics
 
 ## 📂 Project Structure
 
@@ -68,6 +68,6 @@ src/
 
 ## 🛡️ Notes
 
-* **This repo is not production-ready.**
-* Designed strictly for research, demo, and experimentation.
-* Please validate tracking consent and privacy compliance before use.
+- **This repo is not production-ready.**
+- Designed strictly for research, demo, and experimentation.
+- Please validate tracking consent and privacy compliance before use.
